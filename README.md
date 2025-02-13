@@ -6,9 +6,11 @@
 | Passionate About Data-Driven Solutions | </br> 
 </h3>
 
-<p align center>
+<p style="text-align: center;">
 <a href="https://www.linkedin.com/in/manish-devdi-63bb78234/"><img height="25" src="https://img.shields.io/badge/Linkedin-%2320beff"></a>
-<a href="mailto:manishdevdi778@gmail.com"><img height="25" src="https://img.shields.io/badge/Email-%2320beff"></a>
+<a href="mailto:manishdevdi778@gmail.com">
+        <img height="25" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon">
+    </a>
 </p>
 
 ## 🛠 Technical Skills:

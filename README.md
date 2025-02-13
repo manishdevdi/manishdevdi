@@ -1,7 +1,15 @@
-## Hi there, I'm Manish Devdi👋
+<h1 align="center">Hi there, I'm Manish Devdi👋</h1>
 
-## 💫 About Me:
-   Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions
+---
+<h3 align="center">
+Aspiring Data Analyst | Data Scientist </br> 
+Passionate About Data-Driven Solutions </br> 
+</h3>
+
+<p align=center>
+<a href="https://www.linkedin.com/in/manish-devdi-63bb78234/"><img height="25" src="https://img.shields.io/badge/Linkedin-%2320beff"></a>
+<a href="(mailto:manishdevdi778@gmail.com)"><img height="25" src="https://img.shields.io/badge/Email--%2320beff"></a>
+</p>
 
 ## 🛠 Technical Skills:
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)

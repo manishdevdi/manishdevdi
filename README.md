@@ -1,7 +1,17 @@
 ## Hi there, I'm Manish Devdi👋
 
 # 💫 About Me:
-🚀 Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions<br><br>🎓Education: Student at J.C. Bose University of Science & Technology <br><br>  🛠 Technical Skills:<br>   Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) <br>   Databases & SQL: MySQL, MongoDB<br>   Data Visualization: Power BI, Matplotlib, Seaborn<br>   Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Time Series<br>   Data Processing & ETL: SQL Queries, Data Cleaning, Data Wrangling<br>   Excel & Spreadsheets: Pivot Tables, VLOOKUP<br><br>🚀 Passionate About: Data-driven decision-making, business intelligence, automation, and solving real-world problems with data.<br><br>🔍 Seeking Opportunities: Entry-level Data Analyst, Business Intelligence Analyst, or Data Science roles where I can leverage my skills to drive meaningful insights.
+🚀 Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions<br><br>🎓Education: Student at J.C. Bose University of Science & Technology <br>
+<br>  
+🛠 Technical Skills:
+<br>  
+- Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+<br>
+- Databases & SQL: MySQL, MongoDB<br>   Data Visualization: Power BI, Matplotlib, Seaborn <br>
+- Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Time Series <br>
+- Data Processing & ETL: SQL Queries, Data Cleaning, Data Wrangling <br>
+- Excel & Spreadsheets: Pivot Tables, VLOOKUP <br>
+<br>🚀 Passionate About: Data-driven decision-making, business intelligence, automation, and solving real-world problems with data.<br><br>🔍 Seeking Opportunities: Entry-level Data Analyst, Business Intelligence Analyst, or Data Science roles where I can leverage my skills to drive meaningful insights.
 
 
 ## 🌐 Socials:

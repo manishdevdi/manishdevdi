@@ -5,10 +5,15 @@
 
 ## 🛠 Technical Skills:
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+  
 - Databases & SQL: MySQL, MongoDB
+  
 - Data Visualization: Power BI, Matplotlib, Seaborn
+  
 - Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Time Series
+  
 - Data Processing & ETL: SQL Queries, Data Cleaning, Data Wrangling
+  
 - Excel & Spreadsheets: Pivot Tables, VLOOKUP
 
 ## 🌐 Socials:

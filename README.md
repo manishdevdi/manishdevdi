@@ -1,6 +1,6 @@
 ## Hi there, I'm Manish Devdi👋
 
-# 💫 About Me:
+## 💫 About Me:
 ### 🚀 Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions
 
   

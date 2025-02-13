@@ -1,24 +1,16 @@
 ## Hi there, I'm Manish Devdi👋
 
-### 💫 About Me:
+# 💫 About Me:
 🚀 Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions
 
-### 🎓Education: 
-- Student at J.C. Bose University of Science & Technology
   
 ### 🛠 Technical Skills:
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Databases & SQL: MySQL, MongoDB<br>   Data Visualization: Power BI, Matplotlib, Seaborn
+- Databases & SQL: MySQL, MongoDB
+- Data Visualization: Power BI, Matplotlib, Seaborn
 - Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Time Series
 - Data Processing & ETL: SQL Queries, Data Cleaning, Data Wrangling
 - Excel & Spreadsheets: Pivot Tables, VLOOKUP
-
-### 🚀 Passionate About:
-Data-driven decision-making, business intelligence, automation, and solving real-world problems with data.
-
-### 🔍 Seeking Opportunities:
-Entry-level Data Analyst, Business Intelligence Analyst, or Data Science roles where I can leverage my skills to drive meaningful insights.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/manish-devdi-63bb78234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishdevdi778@gmail.com) 

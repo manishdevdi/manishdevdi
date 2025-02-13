@@ -4,7 +4,7 @@
 ### 🚀 Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions
 
   
-### 🛠 Technical Skills:
+## 🛠 Technical Skills:
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Databases & SQL: MySQL, MongoDB
 - Data Visualization: Power BI, Matplotlib, Seaborn

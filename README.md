@@ -6,7 +6,7 @@ Student at J.C. Bose University of Science & Technology |Aspiring Data Analyst |
 AI / ML | Power BI | SQL| Statistics | Passionate About Data-Driven Solutions |  </br>
 </h3>
 
-<p align: center;">
+<p align="center">
     <a href="https://www.linkedin.com/in/manish-devdi-63bb78234/">
         <img height="25" src="https://img.shields.io/badge/Linkedin-%2320beff">
     </a>

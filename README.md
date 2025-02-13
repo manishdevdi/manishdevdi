@@ -1,8 +1,7 @@
 ## Hi there, I'm Manish Devdi👋
 
 ## 💫 About Me:
-    
-    Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions
+   Aspiring Data Analyst | Data Scientist | Passionate About Data-Driven Solutions
 
 ## 🛠 Technical Skills:
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)

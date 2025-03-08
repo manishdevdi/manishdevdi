@@ -2,7 +2,7 @@
 
 ---
 <h3 align="center">
-Student at J.C. Bose University of Science & Technology |Aspiring Data Analyst | Data Scientist | <br>
+Student at J.C. Bose University of Science & Technology | Aspiring Data Analyst | Data Scientist | <br>
 AI / ML | Power BI | SQL| Statistics | Passionate About Data-Driven Solutions |  </br>
 </h3>
 
